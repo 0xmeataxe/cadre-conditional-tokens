@@ -1,19 +1,19 @@
-Conditional Tokens Contracts
-============================
+Cadre Conditional Tokens
+========================
 
-.. image:: https://travis-ci.org/gnosis/conditional-tokens-contracts.svg?branch=master
-   :target: https://travis-ci.org/gnosis/conditional-tokens-contracts
-   :alt: Build Status
+Smart contracts for conditional tokens, packaged as a Cadre source import.
 
-.. image:: https://badges.greenkeeper.io/gnosis/conditional-tokens-contracts.svg
-   :target: https://greenkeeper.io/
-   :alt: Greenkeeper badge
+This repository derives from `Gnosis Conditional Tokens
+<https://github.com/gnosis/conditional-tokens-contracts>`_. Original code,
+copyright notices, and license terms are retained. Cadre changes currently
+cover repository presentation and documentation only.
 
-Smart contracts for conditional tokens.
+The import commit records packaging of upstream code, not original authorship
+or evidence of development on its configured timestamp.
 
 `→ Github source repository`_
 
-.. _→ Github source repository: https://github.com/gnosis/conditional-tokens-contracts
+.. _→ Github source repository: https://github.com/0xmeataxe/cadre-conditional-tokens
 
 
 License

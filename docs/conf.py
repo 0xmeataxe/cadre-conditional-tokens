@@ -19,7 +19,7 @@ import os
 
 # -- Project information -----------------------------------------------------
 
-project = 'Conditional Tokens'
+project = 'Cadre Conditional Tokens'
 copyright = '2018, Gnosis Ltd'
 author = 'Gnosis'
 
